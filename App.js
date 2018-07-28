@@ -34,13 +34,6 @@ export default class App extends React.Component {
         })
       }
     })
-    // this.setState(prevState => {
-    //   return {
-    //     places: prevState.places.filter((place) => {
-    //       return place.key !== key;
-    //     })
-    //   };
-    // });
   };
 
 
